@@ -4,17 +4,12 @@
  */
 package kincseslada;
 
-/**
- *
- * @author KovácsIstvánGábor(SZ
- */
+
 public class KincsesLada {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
