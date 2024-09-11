@@ -10,4 +10,5 @@ Bronz: Az arany hazudik!
 Szerintem a Bronz ládában van!
 
 
-![kep2](https://github.com/user-attachments/assets/22160b24-88b7-4fb9-9dae-6fd2cc1ee776)
+![kep2](https://github.com/user-attachments/assets/03c59f7b-0ddd-4a36-9749-6b27ffee05a4)
+
