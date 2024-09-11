@@ -55,7 +55,7 @@ public class kincs extends javax.swing.JFrame {
         jButton3.setFont(new java.awt.Font("Viner Hand ITC", 0, 12)); // NOI18N
         jButton3.setText("Választás!");
 
-        jPanel1.setForeground(new java.awt.Color(153, 51, 0));
+        jPanel1.setBorder(javax.swing.BorderFactory.createLineBorder(null));
 
         jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/kincseslada/arany.png"))); // NOI18N
 
